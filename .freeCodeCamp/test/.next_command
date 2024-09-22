@@ -40,3 +40,12 @@ git remote add origin https://github.com/Anedvago/FreeCodeCamp-Universe-Database
 git remote add origin https://github.com/Anedvago/FreeCodeCamp-Universe-Database.git
 git status
 git add .
+git commit -m "Creando la base de datos de universo"
+git push
+git push origin/main
+git remote -v
+git remote add origin https://github.com/Anedvago/FreeCodeCamp-Universe-Database.git
+git remote set-url https://github.com/Anedvago/FreeCodeCamp-Universe-Database.git
+git remote set-url origin https://github.com/Anedvago/FreeCodeCamp-Universe-Database.git
+git status
+git add .
